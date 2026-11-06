@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Si utilizas este proyecto, cita el repositorio y las fuentes de datos."
+title: "CAPM Lab: estudio empírico del IBEX 35 Total Return"
+type: software
+license: GPL-3.0-only
+date-released: 2026-11-06
+abstract: "Análisis empírico del CAPM, betas, alfas, SCL/SML y rolling con benchmark IBEX 35 Total Return y rf BCE."
+keywords:
+  - CAPM
+  - IBEX 35
+  - econometrics
+  - quantitative finance
+  - Python
